@@ -1,5 +1,3 @@
-Absolutely! Here's the full `README.md` content formatted **exactly for copying**, with bolding and everything intact:
-
 # 99 | ٩٩ ™ — Server Website
 
 A modern, responsive landing page for the **99 | ٩٩ ™** Discord server. Built with HTML and CSS, it features live member counts, avatars, theme toggle, join button, rules, and beautiful animations.
